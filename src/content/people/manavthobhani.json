@@ -13,5 +13,22 @@
       "year": 2024,
       "role": "General Executive"
     }
+  ],
+  "socials": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/manav-thobhani-352018266",
+      "icon": "fa-brands:linkedin-in"
+    },
+        {
+      "platform": "Website",
+      "url": "https://mt1218.github.io/",
+      "icon": "mdi:home"
+    },
+        {
+      "platform": "Github",
+      "url": "https://github.com/MT1218",
+      "icon": "fa-brands:github"
+    }
   ]
 }

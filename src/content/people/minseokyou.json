@@ -5,5 +5,12 @@
       "year": 2026,
       "role": "Content Creator"
     }
+  ],
+  "socials": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/youm05/",
+      "icon": "fa-brands:linkedin-in"
+    }
   ]
 }
